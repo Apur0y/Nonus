@@ -7,3 +7,4 @@ day start with no current
 day 1
 way tp Cumilla 
 sajek
+day 2
