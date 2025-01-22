@@ -10,4 +10,3 @@ sajek
 day 2
 Rangamatifd
 Cox
-nig
