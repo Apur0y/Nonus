@@ -5,4 +5,4 @@ Project part one
 need to acc.
 day start with no current
 day 1
-way tp
+way
