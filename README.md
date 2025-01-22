@@ -11,4 +11,3 @@ day 2
 Rangamatifd
 Cox’s 
 night mar
-ib
