@@ -5,4 +5,3 @@ Project part one
 need to acc.
 day start with no current
 da
-way
