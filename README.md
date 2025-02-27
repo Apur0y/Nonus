@@ -1,2 +1,2 @@
 # Nonus
-Astronomy 
+Numbers of Theory
