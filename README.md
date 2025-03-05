@@ -1,4 +1,4 @@
 # Nonus
-Numbers of Theory
+Theory of Numbers
 Cons 
 Miss the line
